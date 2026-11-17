@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "3.7",
-  "apkUrl": "https://github.com/j4ggg9nfw8-beep/tvmasters-update/releases/download/v3.7/tvmasters-v3.7.apk",
+  "versionCode": 51,
+  "versionName": "3.8",
+  "apkUrl": "https://github.com/j4ggg9nfw8-beep/tvmasters-update/releases/download/v3.8/tvmasters-v3.8.apk",
   "sha256": "",
-  "changelog": "Was neu ist:\n• Download von Filmen und Serien\n• kleinere Fehlerbehebungen",
+  "changelog": "Was neu ist:\n• Eigene Favoritenlisten\n• Nächste Folge automatisch\n• Detailseite für Filme\n• Globale Suche\n• Fehlerberichte per E-Mail\n• Schnelleres Spulen bei Catch-up",
   "mandatory": false
 }
