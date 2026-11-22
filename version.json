@@ -1,8 +1,8 @@
 {
-  "versionCode": 59,
-  "versionName": "3.8.8",
-  "apkUrl": "https://github.com/j4ggg9nfw8-beep/tvmasters-update/releases/download/v3.8.8/tvmasters-v3.8.8.apk",
+  "versionCode": 60,
+  "versionName": "3.8.9",
+  "apkUrl": "https://github.com/j4ggg9nfw8-beep/tvmasters-update/releases/download/v3.8.9/tvmasters-v3.8.9.apk",
   "sha256": "",
-  "changelog": "Was neu ist:\n• Download direkt im Player\n• Speicheranzeige bei den Downloads\n• Filme & Serien laden viel schneller\n• Flüssigeres Blättern\n• TV-Guide: einfacher zurückblättern\n• Schöneres Design, Fehler behoben",
+  "changelog": "Was neu ist:\n• Neue ruhige Startseite mit Uhrzeit\n• Live TV startet erst, wenn du es auswählst\n• Bereiche öffnen schneller (werden im Hintergrund vorgeladen)",
   "mandatory": false
 }
